@@ -135,3 +135,4 @@ echo "<br><br><br>";
 echo "Test 2<br>";
 echo $s->calculate("(1+(4+5+2)*3)-(6+8)");
 echo "<br>";
+?>
